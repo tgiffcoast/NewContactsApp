@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Tracey Testing hi hi hi !</Text>
-      <Text>need commits to workfgfdgfdgfgfgd to remote !</Text>
+      <Text>need commits tofghfghfgh workfgfdgfdgfgfgd to remote !</Text>
       <Text>I want to test more go parra !</Text>
       <StatusBar style="auto" />
     </View>
